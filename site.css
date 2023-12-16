@@ -13,8 +13,3 @@ body {
   background: var(--bg);
   font-family: var(--font);
 }
-
-@media screen and (max-width: 480px) {
-  body {
-    font-size: 1.4rem;
-  }
